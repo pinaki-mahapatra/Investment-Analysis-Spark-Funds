@@ -1,4 +1,4 @@
-# Investment-Analysis-Spark-Funds-
+# Investment Analysis-Spark Funds
 
 #### Assignment Brief
 As a member of Spark Funds, an asset management company, the aim is to understand the investment global trends  and suggest best investment opportunities.
